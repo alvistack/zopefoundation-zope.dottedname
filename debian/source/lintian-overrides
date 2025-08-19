@@ -1,0 +1,5 @@
+python-zope.dottedname source: file-without-copyright-information
+python-zope.dottedname source: no-debian-changes
+python-zope.dottedname source: source-contains-prebuilt-windows-binary
+python-zope.dottedname source: source-is-missing
+python-zope.dottedname source: source-package-encodes-python-version
